@@ -13,4 +13,4 @@
 
 - 📫 How to reach me **vardinesh8@gmail.com**
 
-- ⚡ Strong Mindset
+- ⚡ 
