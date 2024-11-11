@@ -9,7 +9,7 @@
 
 - 🌱 Exploring DevOps practices to enhance my knowledge of CI/CD, cloud deployments, and infrastructure management
 
-- 💬 Always open to discussing Node.js, APIs, and modern backend architectures
+- 💬 Always open to discussing Node.js, APIs, and backend architectures
 
 - 📫 Reach me at vardinesh8@gmail.com for tech insights or collaboration opportunities
 
