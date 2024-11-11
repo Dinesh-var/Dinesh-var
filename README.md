@@ -5,12 +5,12 @@
   <img align="right" alt="Coding" width="450" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead">
 </a>
 <br><br>
-- 🔭 I’m currently working on **Software Developer**
+- 🔭 Currently working as a Software Developer, building robust applications that prioritize performance and scalability
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Exploring DevOps practices to enhance my knowledge of CI/CD, cloud deployments, and infrastructure management
 
-- 💬 Ask me about **Nodejs**
+- 💬 Always open to discussing Node.js, APIs, and modern backend architectures
 
-- 📫 How to reach me **vardinesh8@gmail.com**
+- 📫 Reach me at vardinesh8@gmail.com for tech insights or collaboration opportunities
 
-- ⚡ 
+- ⚡ Driven by a passion for creating impactful software solutions and continuously learning emerging technologies
