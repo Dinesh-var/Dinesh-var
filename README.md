@@ -25,8 +25,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=din-esh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-<br><center>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dinesh&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
