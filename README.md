@@ -6,6 +6,26 @@
 </a>
 <br>
 # 💫 About Me:
+
+🔭 Currently working as a Software Developer, building robust applications that prioritize performance and scalability
+
+- 🌱 Exploring DevOps practices to enhance my knowledge of CI/CD, cloud deployments, and infrastructure management
+
+- 💬 Always open to discussing Node.js, APIs, and backend architectures
+
+- 📫 Reach me at vardinesh8@gmail.com for tech insights or collaboration opportunities
+
+- ⚡ Driven by a passion for creating impactful software solutions and continuously learning emerging technologies
+
+
+
+
+
+
+
+
+
+
 🔭 I’m currently working on: Node.js and database-driven applications.<br>👯 I’m looking to collaborate on: Backend development projects using Node.js and REST APIs.<br>🤝 I’m looking for help with: Enhancing performance and scalability in API development.<br>🌱 I’m currently learning: Advanced TypeScript and MongoDB optimization techniques.<br>💬 Ask me about: Node.js, database management, and REST API development.<br>⚡ Fun fact: I transitioned from Laravel to Node.js and found my passion for backend development.
 
 
