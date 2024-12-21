@@ -7,7 +7,7 @@
 <br>
 # 💫 About Me:
 
-🔭 Currently working as a Software Developer, building robust applications that prioritize performance and scalability
+- 🔭 Currently working as a Software Developer, building robust applications that prioritize performance and scalability
 
 - 🌱 Exploring DevOps practices to enhance my knowledge of CI/CD, cloud deployments, and infrastructure management
 
@@ -16,18 +16,6 @@
 - 📫 Reach me at vardinesh8@gmail.com for tech insights or collaboration opportunities
 
 - ⚡ Driven by a passion for creating impactful software solutions and continuously learning emerging technologies
-
-
-
-
-
-
-
-
-
-
-🔭 I’m currently working on: Node.js and database-driven applications.<br>👯 I’m looking to collaborate on: Backend development projects using Node.js and REST APIs.<br>🤝 I’m looking for help with: Enhancing performance and scalability in API development.<br>🌱 I’m currently learning: Advanced TypeScript and MongoDB optimization techniques.<br>💬 Ask me about: Node.js, database management, and REST API development.<br>⚡ Fun fact: I transitioned from Laravel to Node.js and found my passion for backend development.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/din.__.x/?locale=captcha%2B-%2Bsitus%2Bweb%2Buntuk%2Bmenghasilkan%2Buang%2Bsecara%2Bonline%2Buntuk%2Borang-orang%2B%27pekerja%2Bkeras%27%E3%80%90GB777.BET%E3%80%91.iwgf&hl=en) 
