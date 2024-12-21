@@ -33,7 +33,7 @@
 
 
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinesh-B&theme=dark&show_icons=true&&hide=issues,contribs)
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Din-x&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
