@@ -33,7 +33,7 @@
 
 
 
-
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
